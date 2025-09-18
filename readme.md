@@ -23,9 +23,4 @@ With a background in **software engineering** and hands-on experience in **cloud
 - 🌍 Currently based in Denmark.  
 
 ---
-
-📫 **Let’s connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bmja62)  
-
----
 ⭐️ _“Code is like humor. When you have to explain it, it’s bad.”_
